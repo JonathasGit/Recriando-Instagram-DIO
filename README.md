@@ -11,7 +11,7 @@ Aula em dividia em 4 partes (Serão 3 Issues) :
 4 - <a href="https://github.com/JonathasGit/Recriando-Instagram-DIO/issues/4">Parte 4</a> <br>
 
 
-Certificado: 
+Certificado: <a href="https://certificates.digitalinnovation.one/91F0D071"> Recriando a página Inicial do Instagram </a>
 
 Site Online: 
 
