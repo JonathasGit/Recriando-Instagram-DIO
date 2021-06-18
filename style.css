@@ -80,3 +80,18 @@ body{
 .profile-photo img{
     height: 6rem;
 }
+
+
+/*Formatação dos botões*/
+.instagram-login{
+    background-color: #0095f6;
+    color: #ffffff;
+    padding: 8px; /*Tamanho do button*/
+    border-radius: 4px;
+    margin-top: 1rem;
+}
+
+.instagram-logout{
+    color:#0095f6;
+    margin-top: 1rem;
+}
