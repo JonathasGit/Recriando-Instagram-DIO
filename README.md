@@ -15,4 +15,6 @@ Certificado: <a href="https://certificates.digitalinnovation.one/91F0D071"> Recr
 
 Site Online: 
 
+<h3>Curso Finalizado</h3>
+
 
